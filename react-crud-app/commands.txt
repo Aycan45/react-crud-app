@@ -1,0 +1,9 @@
+npm install //for installing node_modules
+npm i react-router-dom // for router dom
+npm install json-server // for installing json-server
+json-server --watch db.json --port 3004 // saying to the json server to look for data in db.json
+npm install @mui/material @emotion/react @emotion/styled // these are ui components for the front page
+npm install @mui/icons-material // for the icons that I used
+
+
+
